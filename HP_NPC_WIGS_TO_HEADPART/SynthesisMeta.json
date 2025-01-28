@@ -1,0 +1,14 @@
+{
+  "Nickname": "HP_NPC_WIGS_TO_HEADPART",
+  "Visibility": "Visible",
+  "OneLineDescription": "Convert Wigs to hair headpart",
+  "LongDescription": "Convert Wigs to hair headpart for High Poly NPC Overhaul",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "High Poly NPC Overhaul - Skyrim Special Edition.esp",
+    "KS Hairdo's.esp"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
